@@ -319,7 +319,7 @@ header li:hover {
 /* Footer */
 footer {
   background-color: var(--footer-bg);
-  padding: 4.5rem 0;
+  padding: 5rem 0;
 }
 
 .footer-container {
